@@ -8,7 +8,7 @@
 
 ( ) parenteses
 
-![ปรัชญา](ปรัชญา)
+![ปรัชญา](https://github.com/jittakorn-ch/multivariate/blob/main/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2.jpg)
 
 #### ให้อธิบายการใช้งาน Github และ Google Colab ว่าหน้าที่ของมันคืออะไร และอธิบายวิธีเชพไฟล์จาก Google Colab ลงใน Github
 
@@ -18,18 +18,21 @@
 
 ***วิธีเชพไฟล์จาก Google Colab ลงใน Github***
 
+
 เลือก file => Save a copy in GitHub
 
-![save](save in colab)
+![save](https://github.com/jittakorn-ch/multivariate/blob/main/save%20in%20colab.png)
+
 
 เลือกโปรเจค คอมเม้น กด ok
 
-![save](save)
+![save](https://github.com/jittakorn-ch/multivariate/blob/main/save.png)
 
 #### การเพิ่มรูปภาพ ต้องอัพโหลดรูปภาพเข้ามาก่อน
 
+
 วิธีอัพโหลดรูปภาพ
 
-![add_file](add file)
+![add_file](https://github.com/jittakorn-ch/multivariate/blob/main/add%20file.png)
 
 ![ ] ใส่คำอธิบายรูป () ใส่ชื่อไฟล์รูปภาพ
