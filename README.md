@@ -1,38 +1,25 @@
-## multivariate
+# multivariate analysis : การวิเคราะห์หลายตัวแปร
 
-### จิตรกร ID 623021044-1
-
-.md => markdown
-
-[ ] square brackets
-
-( ) parenteses
-
-![ปรัชญา](https://github.com/jittakorn-ch/multivariate/blob/main/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2.jpg)
-
-#### ให้อธิบายการใช้งาน Github และ Google Colab ว่าหน้าที่ของมันคืออะไร และอธิบายวิธีเชพไฟล์จาก Google Colab ลงใน Github
-
-***Github*** เป็นพื้นที่เก็บโปรเจคเอาไว้เก็บโค้ดที่เราเขียน และสามารถแชร์ให้คนอื่นมาเขียนต่อจากเราได้ ผ่าน github
-
-***Google Colab*** เป็นเว็บสำหรับเขียนโค้ด และเก็บไว้ที่ github
-
-***วิธีเชพไฟล์จาก Google Colab ลงใน Github***
+: จิตรกร ID 623021044-1
 
 
-เลือก file => Save a copy in GitHub
+### Visualize
+(Visualize multivariate)
+- [Visualize](Chapter2_visualize_Multivariate.inynb)
 
-![save](https://github.com/jittakorn-ch/multivariate/blob/main/save%20in%20colab.png)
+### PCA Practices
+(Principal component analysis)
+- [PCA-1](Exam01.ipynb)
+- [PCA-2](Chapter3_PCA.ipynb)
 
+### Multidimensional Scaling
+- [MDS](Chapter_4_MDS.ipynb)
 
-เลือกโปรเจค คอมเม้น กด ok
+### Factor Analysis
+- [Factor_Analysis](Chapter_5_Factor_Analysis.ipynb)
 
-![save](https://github.com/jittakorn-ch/multivariate/blob/main/save.png)
+### Cluster Analiysis
+- [Cluster_Analiysis](Chapter6_Cluster_Analysis.ipynb)
 
-#### การเพิ่มรูปภาพ ต้องอัพโหลดรูปภาพเข้ามาก่อน
-
-
-วิธีอัพโหลดรูปภาพ
-
-![add_file](https://github.com/jittakorn-ch/multivariate/blob/main/add%20file.png)
-
-![ ] ใส่คำอธิบายรูป () ใส่ชื่อไฟล์รูปภาพ
+### Final Exam
+- [Exam](Multivariate_Exam.ipynb)
