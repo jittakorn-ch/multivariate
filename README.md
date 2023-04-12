@@ -3,12 +3,10 @@
 : จิตรกร ID 623021044-1
 
 
-### Visualize
-(Visualize multivariate)
+### Visualize multivariate
 - [Visualize](Chapter2_visualize_Multivariate.ipynb)
 
-### PCA Practices
-(Principal component analysis)
+### Principal component analysis (PCA)
 - [PCA-1](Exam01.ipynb)
 - [PCA-2](Chapter3_PCA.ipynb)
 
