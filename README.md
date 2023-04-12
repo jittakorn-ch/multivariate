@@ -5,7 +5,7 @@
 
 ### Visualize
 (Visualize multivariate)
-- [Visualize](Chapter2_visualize_Multivariate.inynb)
+- [Visualize](Chapter2_visualize_Multivariate.ipynb)
 
 ### PCA Practices
 (Principal component analysis)
